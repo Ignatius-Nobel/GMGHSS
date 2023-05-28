@@ -1,0 +1,16 @@
+<div class="container-fluid">
+      <div class="contact-box row">
+        <div class="phone col-sm-12 col-md-6">
+          <button type="button" class="btn btn-success my-1">
+            <i class="bi bi-telephone-fill">
+              Call Us : 1234567890 | 9876543210</i
+            >
+          </button>
+        </div>
+        <div class="mail col-sm-12 col-md-6">
+          <button type="button" class="btn btn-success my-1 me-2">
+            <i class="bi bi-envelope-at"> gmghsskunnamkulam@gmail.com</i>
+          </button>
+        </div>
+      </div>
+    </div>
